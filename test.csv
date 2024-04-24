@@ -1,0 +1,4 @@
+Resource,Tag Name,Tag Value
+Ec2,Name,Test EC2
+s3,Name,Test S3
+ECS,Name,Test ECS
