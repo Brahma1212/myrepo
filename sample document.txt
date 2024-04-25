@@ -1,7 +1,3 @@
-Splunk Vunablitity link dashboard
-asking to sriram
-
-
 Hi Sriram/amit,
 
 Here I am sharing the shell script & PowerShell commands for the automating and applying tags for the AWS resources.
